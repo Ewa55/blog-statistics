@@ -7,5 +7,5 @@ This project is a construction CMS.
 
 It consists of 3 subpages:
 - Home
-- posts
-- users
+- Posts
+- Users
