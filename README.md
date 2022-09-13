@@ -1,4 +1,4 @@
-# About My project
+# about my project
 I created this project using a Udemy course.
 I used Bootstrap and Flexbox to create my website.
 
